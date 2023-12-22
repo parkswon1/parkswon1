@@ -15,5 +15,5 @@
 
 ![parkswon1's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=parkswon1)
 
-## Blog
+## Blog 🌱
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://naturecancoding.tistory.com/)
