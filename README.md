@@ -1,4 +1,8 @@
 ### Hi there 👋
+# About Me ✨
+
+👋 I'm a developer on a mission to elegantly tackle and enhance diverse challenges in my surroundings. My joy lies in utilizing software development as a powerful tool to craft meaningful and positive changes. 💻✨
+
 ## Stack
 
 - ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
