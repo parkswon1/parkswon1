@@ -2,7 +2,7 @@
 
 👋 Hello! I am a developer who aims to efficiently solve and improve various issues in my surroundings. 💻✨
 
-## Interested Tech Stack 🛠️
+## Interested Tech Stack and Tools 🛠️
 
 ![Spring Badge](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white)
 ![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
@@ -14,5 +14,7 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
 ![parkswon1's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=parkswon1)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://naturecancoding.tistory.com/)
-[![Solved Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://solved.ac/profile/parkswon1)
+
+## Link
+[![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://naturecancoding.tistory.com/)
+[![Solved Badge](https://img.shields.io/badge/solved-43B02A?style=flat&logoColor=white)](https://solved.ac/profile/parkswon1)
