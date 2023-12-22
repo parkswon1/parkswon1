@@ -6,6 +6,7 @@
 ## Stack
 
 - ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+- ![Django Badge](https://img.shields.io/badge/Django-092E20?style=flat&logo=Django&logoColor=white)
 - ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 - ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
 
