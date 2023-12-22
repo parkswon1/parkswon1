@@ -1,7 +1,15 @@
 ### Hi there 👋
-![Static Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
-</>
+## Stack
+
+- ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
+- ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
+- ![React Badge](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white)
+
+## Sovled.ac
+
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=parkswon1)
+
+
 <!--
 **parkswon1/parkswon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
