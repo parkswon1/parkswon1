@@ -14,3 +14,5 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white)
 
 ![parkswon1's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=parkswon1)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://naturecancoding.tistory.com/)
+[![Solved Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://solved.ac/profile/parkswon1)
