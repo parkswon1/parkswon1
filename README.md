@@ -1,5 +1,5 @@
 ### Hi there 👋
-![parkswon1's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=hyperflow)
+![parkswon1's solved.ac stats](https://github-readme-solvedac.parkswon1.vercel.app/api/?handle=hyperflow)
 <!--
 **parkswon1/parkswon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
