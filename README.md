@@ -20,6 +20,13 @@
   <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=parkswon1" alt="parkswon1's solved.ac stats"/>
 </div>
 
+## <div align="center">Blog 🌱</div>
+<div align="center">
+  <a href="https://naturecancoding.tistory.com/">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" alt="Tistory Badge"/>
+  </a>
+</div>
+
 ## Blog 🌱
 [![Tistory Badge](https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white)](https://naturecancoding.tistory.com/)
 
