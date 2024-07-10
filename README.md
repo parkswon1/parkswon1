@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Server down? Must be cosmic rays. ☄️)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Server%20down%3F%20Must%20be%20cosmic%20rays.%20☄️)
 
 👋 Hello! I am a developer who aims to efficiently solve and improve various issues in my surroundings. 💻✨
 
