@@ -1,4 +1,4 @@
-# About Me ✨
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=404 Not Found)
 
 👋 Hello! I am a developer who aims to efficiently solve and improve various issues in my surroundings. 💻✨
 
