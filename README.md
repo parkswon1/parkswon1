@@ -38,104 +38,13 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📝 최신 블로그 포스트
 
-
-        <a href="https://naturecancoding.tistory.com/124" style="
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 5px 0;
-            border: 2px solid #007ACC;
-            border-radius: 5px;
-            background-color: transparent;
-            color: #007ACC;
-            text-decoration: none;
-            font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;">
-            📰 2024/08/08 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Auth + Test + CORS + Header + Swagger Error
-        </a>
-
-        <a href="https://naturecancoding.tistory.com/123" style="
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 5px 0;
-            border: 2px solid #007ACC;
-            border-radius: 5px;
-            background-color: transparent;
-            color: #007ACC;
-            text-decoration: none;
-            font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;">
-            📰 2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Security + JWT
-        </a>
-
-        <a href="https://naturecancoding.tistory.com/122" style="
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 5px 0;
-            border: 2px solid #007ACC;
-            border-radius: 5px;
-            background-color: transparent;
-            color: #007ACC;
-            text-decoration: none;
-            font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;">
-            📰 2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 프로젝트 초기 설계
-        </a>
-
-        <a href="https://naturecancoding.tistory.com/121" style="
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 5px 0;
-            border: 2px solid #007ACC;
-            border-radius: 5px;
-            background-color: transparent;
-            color: #007ACC;
-            text-decoration: none;
-            font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;">
-            📰 2024/08/03 - [SW/DP] Facade Pattern (퍼사드 패턴)
-        </a>
-
-        <a href="https://naturecancoding.tistory.com/120" style="
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 5px 0;
-            border: 2px solid #007ACC;
-            border-radius: 5px;
-            background-color: transparent;
-            color: #007ACC;
-            text-decoration: none;
-            font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;">
-            📰 2024/08/02 - [Database/Error] spring에서 db 2개 사용할 때 생기는 Bean 문제 해결
-        </a>
-
-        <a href="https://naturecancoding.tistory.com/119" style="
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 5px 0;
-            border: 2px solid #007ACC;
-            border-radius: 5px;
-            background-color: transparent;
-            color: #007ACC;
-            text-decoration: none;
-            font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;">
-            📰 2024/08/01 - [Tool/Swagger] 문서 작성법
-        </a>
-
-        <a href="https://naturecancoding.tistory.com/118" style="
-            display: inline-block;
-            padding: 10px 20px;
-            margin: 5px 0;
-            border: 2px solid #007ACC;
-            border-radius: 5px;
-            background-color: transparent;
-            color: #007ACC;
-            text-decoration: none;
-            font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;">
-            📰 2024/07/30 - [Tool/Git] git 브랜치 관리법
-        </a>
+- 📰 [2024/08/08 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Auth + Test + CORS + Header + Swagger Error](https://naturecancoding.tistory.com/124)
+- 📰 [2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Security + JWT](https://naturecancoding.tistory.com/123)
+- 📰 [2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 프로젝트 초기 설계](https://naturecancoding.tistory.com/122)
+- 📰 [2024/08/03 - [SW/DP] Facade Pattern (퍼사드 패턴)](https://naturecancoding.tistory.com/121)
+- 📰 [2024/08/02 - [Database/Error] spring에서 db 2개 사용할 때 생기는 Bean 문제 해결](https://naturecancoding.tistory.com/120)
+- 📰 [2024/08/01 - [Tool/Swagger] 문서 작성법](https://naturecancoding.tistory.com/119)
+- 📰 [2024/07/30 - [Tool/Git] git 브랜치 관리법](https://naturecancoding.tistory.com/118)
 
 <!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
