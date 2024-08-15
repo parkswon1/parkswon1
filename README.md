@@ -26,7 +26,8 @@
     <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white" alt="Tistory Badge"/>
   </a>
 </div>
-[![Github](https://www.codenary.co.kr/widget/github/api?username=박석원)](https://www.codenary.co.kr/user-profile/detail/박석원?github_ride=true&utm_source=github)
 
 <!-- 3D 잔디 -->
 ![3D 잔디](./profile-3d-contrib/profile-night-rainbow.svg)
+
+[![Github](https://www.codenary.co.kr/widget/github/api?username=박석원)](https://www.codenary.co.kr/user-profile/detail/박석원?github_ride=true&utm_source=github)
