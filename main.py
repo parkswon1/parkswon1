@@ -11,7 +11,20 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         break
     else:
         feed_date = feed['published_parsed']
-        new_content += f"- 📰 [{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']})\n"
+        new_content += f"""
+        <a href="{feed['link']}" style="
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 5px 0;
+            border: 2px solid #007ACC;
+            border-radius: 5px;
+            background-color: transparent;
+            color: #007ACC;
+            text-decoration: none;
+            font-weight: bold;
+            transition: background-color 0.3s, color 0.3s;">
+            📰 {time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}
+        </a>\n"""
 
 def update_readme_section(new_content):
     with open("README.md", "r", encoding="utf-8") as file:
