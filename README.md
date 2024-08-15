@@ -38,13 +38,41 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📝 최신 블로그 포스트
 
-- 📰 [2024/08/08 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Auth + Test + CORS + Header + Swagger Error](https://naturecancoding.tistory.com/124)
-- 📰 [2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Security + JWT](https://naturecancoding.tistory.com/123)
-- 📰 [2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 프로젝트 초기 설계](https://naturecancoding.tistory.com/122)
-- 📰 [2024/08/03 - [SW/DP] Facade Pattern (퍼사드 패턴)](https://naturecancoding.tistory.com/121)
-- 📰 [2024/08/02 - [Database/Error] spring에서 db 2개 사용할 때 생기는 Bean 문제 해결](https://naturecancoding.tistory.com/120)
-- 📰 [2024/08/01 - [Tool/Swagger] 문서 작성법](https://naturecancoding.tistory.com/119)
-- 📰 [2024/07/30 - [Tool/Git] git 브랜치 관리법](https://naturecancoding.tistory.com/118)
+<a href="https://naturecancoding.tistory.com/124" style="text-decoration: none; display: block; margin-bottom: 10px;">
+    <div style="border: 1px solid #007ACC; border-radius: 5px; padding: 10px; background-color: #f5f5f5;">
+        📰 <strong>2024/08/08 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Auth + Test + CORS + Header + Swagger Error</strong>
+    </div>
+</a>
+<a href="https://naturecancoding.tistory.com/123" style="text-decoration: none; display: block; margin-bottom: 10px;">
+    <div style="border: 1px solid #007ACC; border-radius: 5px; padding: 10px; background-color: #f5f5f5;">
+        📰 <strong>2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Security + JWT</strong>
+    </div>
+</a>
+<a href="https://naturecancoding.tistory.com/122" style="text-decoration: none; display: block; margin-bottom: 10px;">
+    <div style="border: 1px solid #007ACC; border-radius: 5px; padding: 10px; background-color: #f5f5f5;">
+        📰 <strong>2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 프로젝트 초기 설계</strong>
+    </div>
+</a>
+<a href="https://naturecancoding.tistory.com/121" style="text-decoration: none; display: block; margin-bottom: 10px;">
+    <div style="border: 1px solid #007ACC; border-radius: 5px; padding: 10px; background-color: #f5f5f5;">
+        📰 <strong>2024/08/03 - [SW/DP] Facade Pattern (퍼사드 패턴)</strong>
+    </div>
+</a>
+<a href="https://naturecancoding.tistory.com/120" style="text-decoration: none; display: block; margin-bottom: 10px;">
+    <div style="border: 1px solid #007ACC; border-radius: 5px; padding: 10px; background-color: #f5f5f5;">
+        📰 <strong>2024/08/02 - [Database/Error] spring에서 db 2개 사용할 때 생기는 Bean 문제 해결</strong>
+    </div>
+</a>
+<a href="https://naturecancoding.tistory.com/119" style="text-decoration: none; display: block; margin-bottom: 10px;">
+    <div style="border: 1px solid #007ACC; border-radius: 5px; padding: 10px; background-color: #f5f5f5;">
+        📰 <strong>2024/08/01 - [Tool/Swagger] 문서 작성법</strong>
+    </div>
+</a>
+<a href="https://naturecancoding.tistory.com/118" style="text-decoration: none; display: block; margin-bottom: 10px;">
+    <div style="border: 1px solid #007ACC; border-radius: 5px; padding: 10px; background-color: #f5f5f5;">
+        📰 <strong>2024/07/30 - [Tool/Git] git 브랜치 관리법</strong>
+    </div>
+</a>
 
 <!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
