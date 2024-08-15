@@ -4,14 +4,14 @@ URL = "https://naturecancoding.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
 MAX_POST = 7
 
-new_content = ""  # list of blog posts will be appended here
+new_content = "### 📝 최신 블로그 포스트\n\n"  # 블로그 포스트 리스트 앞에 제목 추가
 
 for idx, feed in enumerate(RSS_FEED['entries']):
     if idx >= MAX_POST:
         break
     else:
         feed_date = feed['published_parsed']
-        new_content += f"[{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']}) <br/>\n"
+        new_content += f"- 📰 [{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']})\n"
 
 def update_readme_section(new_content):
     with open("README.md", "r", encoding="utf-8") as file:
