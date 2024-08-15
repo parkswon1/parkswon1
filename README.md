@@ -35,6 +35,7 @@
 
 <!-- START_CUSTOM_SECTION -->
 
+<!-- START_CUSTOM_SECTION -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 
         <div style="border: 1px solid #ddd; border-radius: 8px; width: 300px; padding: 16px; margin: 8px; box-shadow: 2px 2px 12px rgba(0, 0, 0, 0.1);">
@@ -79,6 +80,7 @@
             <a href="https://naturecancoding.tistory.com/118" style="text-decoration: none; color: #1E90FF;">Read More</a>
         </div>
         </div>
+<!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
 
 <!-- 3D 잔디 -->
