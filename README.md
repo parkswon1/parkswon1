@@ -20,6 +20,8 @@
   <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=parkswon1" alt="parkswon1's solved.ac stats"/>
 </div>
 
+[![Github](https://www.codenary.co.kr/widget/github/api?username=박석원)](https://www.codenary.co.kr/user-profile/detail/박석원?github_ride=true&utm_source=github)
+
 ## <div align="center">Blog 🌱</div>
 <div align="center">
   <a href="https://naturecancoding.tistory.com/">
@@ -29,5 +31,3 @@
 
 <!-- 3D 잔디 -->
 ![3D 잔디](./profile-3d-contrib/profile-night-rainbow.svg)
-
-[![Github](https://www.codenary.co.kr/widget/github/api?username=박석원)](https://www.codenary.co.kr/user-profile/detail/박석원?github_ride=true&utm_source=github)
