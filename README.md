@@ -20,7 +20,11 @@
   <img src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=parkswon1" alt="parkswon1's solved.ac stats"/>
 </div>
 
-[![Github](https://www.codenary.co.kr/widget/github/api?username=박석원)](https://www.codenary.co.kr/user-profile/detail/박석원?github_ride=true&utm_source=github)
+<div align="center">
+  <a href="https://www.codenary.co.kr/user-profile/detail/%EB%B0%95%EC%84%9D%EC%9B%90?github_ride=true&utm_source=github">
+    <img src="https://www.codenary.co.kr/widget/github/api?username=%EB%B0%95%EC%84%9D%EC%9B%90" alt="Github Stats">
+  </a>
+</div>
 
 ## <div align="center">Blog 🌱</div>
 <div align="center">
