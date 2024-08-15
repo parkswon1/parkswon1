@@ -5,6 +5,7 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST = 7
 
 new_content = """
+<!-- START_CUSTOM_SECTION -->
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
 """  # 카드들을 감싸는 div 시작
 
@@ -21,7 +22,7 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         </div>
         """  # 개별 카드
 
-new_content += "</div>"  # 카드들을 감싸는 div 종료
+new_content += "</div>\n<!-- END_CUSTOM_SECTION -->"  # 카드들을 감싸는 div 종료
 
 def update_readme_section(new_content):
     with open("README.md", "r", encoding="utf-8") as file:
