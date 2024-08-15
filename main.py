@@ -11,7 +11,11 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         break
     else:
         feed_date = feed['published_parsed']
-        new_content += f"- 📰 [{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}]({feed['link']})\n"
+        new_content += f"""<a href="{feed['link']}" style="text-decoration: none; display: block; margin-bottom: 10px;">
+    <div style="border: 1px solid #007ACC; border-radius: 5px; padding: 10px; background-color: #f5f5f5;">
+        📰 <strong>{time.strftime('%Y/%m/%d', feed_date)} - {feed['title']}</strong>
+    </div>
+</a>\n"""
 
 def update_readme_section(new_content):
     with open("README.md", "r", encoding="utf-8") as file:
@@ -27,7 +31,6 @@ def update_readme_section(new_content):
             break
 
     if start_index is not None and end_index is not None:
-        # Keep the section before and after the custom section and replace the content in between
         new_lines = lines[:start_index+1] + [new_content + "\n"] + lines[end_index:]
         with open("README.md", "w", encoding="utf-8") as file:
             file.writelines(new_lines)
