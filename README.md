@@ -38,13 +38,13 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📝 최신 블로그 포스트
 
+- 📰 [2024/08/18 - [DB/Cassandra] Docker Compose로 Cassndra 설정 및 Spring 연](https://naturecancoding.tistory.com/126)
 - 📰 [2024/08/17 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 거래 시스템 설계](https://naturecancoding.tistory.com/125)
 - 📰 [2024/08/08 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Auth + Test + CORS + Header + Swagger Error](https://naturecancoding.tistory.com/124)
 - 📰 [2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Security + JWT](https://naturecancoding.tistory.com/123)
 - 📰 [2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 프로젝트 초기 설계](https://naturecancoding.tistory.com/122)
 - 📰 [2024/08/03 - [SW/DP] Facade Pattern (퍼사드 패턴)](https://naturecancoding.tistory.com/121)
 - 📰 [2024/08/02 - [Database/Error] spring에서 db 2개 사용할 때 생기는 Bean 문제 해결](https://naturecancoding.tistory.com/120)
-- 📰 [2024/08/01 - [Tool/Swagger] 문서 작성법](https://naturecancoding.tistory.com/119)
 
 <!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
