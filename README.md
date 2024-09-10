@@ -38,13 +38,13 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📝 최신 블로그 포스트
 
+- 📰 [2024/09/09 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 시스템 아키텍처](https://naturecancoding.tistory.com/129)
 - 📰 [2024/08/26 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 거래 시퀀스 다이어그램](https://naturecancoding.tistory.com/128)
 - 📰 [2024/08/26 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 디스코드 Github 알림](https://naturecancoding.tistory.com/127)
 - 📰 [2024/08/18 - [DB/Cassandra] Docker Compose로 Cassndra 설정 및 Spring 연](https://naturecancoding.tistory.com/126)
 - 📰 [2024/08/17 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 거래 시스템 설계](https://naturecancoding.tistory.com/125)
 - 📰 [2024/08/08 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Auth + Test + CORS + Header + Swagger Error](https://naturecancoding.tistory.com/124)
 - 📰 [2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] Security + JWT](https://naturecancoding.tistory.com/123)
-- 📰 [2024/08/05 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 프로젝트 초기 설계](https://naturecancoding.tistory.com/122)
 
 <!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
