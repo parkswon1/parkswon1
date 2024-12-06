@@ -38,13 +38,13 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📝 최신 블로그 포스트
 
-- 📰 [2024/10/13 - [Java/기초 정리] 코딩 테스트 문법 완전 정리](https://naturecancoding.tistory.com/133)
-- 📰 [2024/09/29 - [Java/Tread] 스레드 기본 개념 정리 (1)](https://naturecancoding.tistory.com/132)
-- 📰 [2024/09/12 - [Spring/기초] Valid 예외 처리 + 404, 405 (2)](https://naturecancoding.tistory.com/131)
-- 📰 [2024/09/11 - [Database/SQL] SQL 코딩 테스트 대비 문법, 함수 완벽 정리](https://naturecancoding.tistory.com/130)
-- 📰 [2024/09/09 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 시스템 아키텍처](https://naturecancoding.tistory.com/129)
-- 📰 [2024/08/26 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 거래 시퀀스 다이어그램](https://naturecancoding.tistory.com/128)
-- 📰 [2024/08/26 - [멋쟁이사자처럼 백엔드 TIL/ 그때 살껄;;..] 디스코드 Github 알림](https://naturecancoding.tistory.com/127)
+- 📰 [2024/12/06 - [Monitoring/Loki] Loki 설치 &amp; 설명에 대한 모든 것 (3)](https://naturecancoding.tistory.com/140)
+- 📰 [2024/12/05 - [Monitoring/Promtail] 로그 수집 기초 (v2.x.x) &amp; 고급 (다중 서버 로그 읽기) (2)](https://naturecancoding.tistory.com/139)
+- 📰 [2024/12/05 - [Monitoring/Promtail] Promtail 설치 &amp; 설명에 대한 모든 것 (1)](https://naturecancoding.tistory.com/138)
+- 📰 [2024/12/05 - [Docker/기초] Docker-compose 명령어 &amp; 설치 (4)](https://naturecancoding.tistory.com/137)
+- 📰 [2024/12/05 - [Docker/기초] Docker 네트워크 (3)](https://naturecancoding.tistory.com/136)
+- 📰 [2024/12/05 - [Docker/기초] Docker-comopse 파일 만들기 (version 3) (2)](https://naturecancoding.tistory.com/135)
+- 📰 [2024/12/05 - [Docker/기초] Docker File 만들기 (1)](https://naturecancoding.tistory.com/134)
 
 <!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
