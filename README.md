@@ -38,13 +38,13 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📝 최신 블로그 포스트
 
+- 📰 [2024/12/06 - [DB/Oracle] Oracle 설치하기 (11g + Docker) [1]](https://naturecancoding.tistory.com/143)
+- 📰 [2024/12/06 - [Server/NGINX] NGINX 설치 &amp; 설명에 대한 모든 것](https://naturecancoding.tistory.com/142)
+- 📰 [2024/12/06 - [Monitoring/Loki] loki 설정 기초 (Bitnami Loki 3.x + Schema v13) (4)](https://naturecancoding.tistory.com/141)
 - 📰 [2024/12/06 - [Monitoring/Loki] Loki 설치 &amp; 설명에 대한 모든 것 (3)](https://naturecancoding.tistory.com/140)
 - 📰 [2024/12/05 - [Monitoring/Promtail] 로그 수집 기초 (v2.x.x) &amp; 고급 (다중 서버 로그 읽기) (2)](https://naturecancoding.tistory.com/139)
 - 📰 [2024/12/05 - [Monitoring/Promtail] Promtail 설치 &amp; 설명에 대한 모든 것 (1)](https://naturecancoding.tistory.com/138)
 - 📰 [2024/12/05 - [Docker/기초] Docker-compose 명령어 &amp; 설치 (4)](https://naturecancoding.tistory.com/137)
-- 📰 [2024/12/05 - [Docker/기초] Docker 네트워크 (3)](https://naturecancoding.tistory.com/136)
-- 📰 [2024/12/05 - [Docker/기초] Docker-comopse 파일 만들기 (version 3) (2)](https://naturecancoding.tistory.com/135)
-- 📰 [2024/12/05 - [Docker/기초] Docker File 만들기 (1)](https://naturecancoding.tistory.com/134)
 
 <!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
