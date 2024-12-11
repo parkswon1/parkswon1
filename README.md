@@ -38,13 +38,13 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📝 최신 블로그 포스트
 
+- 📰 [2024/12/10 - [DB/Oracle] Optimizer [5]](https://naturecancoding.tistory.com/147)
 - 📰 [2024/12/09 - [DB/Oracle] INDEX  [4]](https://naturecancoding.tistory.com/146)
 - 📰 [2024/12/09 - [DB/Oracle] SQL &amp; PL/SQL 기초 완벽 정리 (11g) [3]](https://naturecancoding.tistory.com/145)
 - 📰 [2024/12/09 - [DB/Oracle] Oracle Architecture 이해하기 (11g) [2]](https://naturecancoding.tistory.com/144)
 - 📰 [2024/12/06 - [DB/Oracle] Oracle 설치하기 (11g + Docker) [1]](https://naturecancoding.tistory.com/143)
 - 📰 [2024/12/06 - [Server/NGINX] NGINX 설치 &amp; 설명에 대한 모든 것](https://naturecancoding.tistory.com/142)
 - 📰 [2024/12/06 - [Monitoring/Loki] loki 설정 기초 (Bitnami Loki 3.x + Schema v13) (4)](https://naturecancoding.tistory.com/141)
-- 📰 [2024/12/06 - [Monitoring/Loki] Loki 설치 &amp; 설명에 대한 모든 것 (3)](https://naturecancoding.tistory.com/140)
 
 <!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
