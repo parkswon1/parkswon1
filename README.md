@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&fontSize=40&fontAlignY=40&animation=fadeIn&text=Server%20down%3F%20Must%20be%20cosmic%20rays%20☄️)
 
 <div align="center">
-  👋 Hello! I am a developer who aims to efficiently solve and improve various issues in my surroundings. 💻✨
+  👋 Hello! I am a backend engineer. 💻✨
 </div>
 
 ## <div align="center">Interested Tech Stack and Tools 🛠️</div>
