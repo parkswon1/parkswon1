@@ -38,13 +38,13 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📝 최신 블로그 포스트
 
+- 📰 [2025/04/03 - [Python/기초] 조합과 순열](https://naturecancoding.tistory.com/153)
 - 📰 [2025/02/06 - [Python/백준] 1749_점수따먹기 (누적합)](https://naturecancoding.tistory.com/152)
 - 📰 [2025/01/15 - 나는 성장 지향적인 태도를 가지고 있는가?](https://naturecancoding.tistory.com/151)
 - 📰 [2025/01/09 - [Spring/Batch] Spring Batch Domain Language of Batch](https://naturecancoding.tistory.com/150)
 - 📰 [2024/12/11 - [Dep/Jenkins] Jenkins 설치 &amp; 기초 설정 (docker) [2]](https://naturecancoding.tistory.com/149)
 - 📰 [2024/12/11 - [Dep/Jenkins] CI/CD [1]](https://naturecancoding.tistory.com/148)
 - 📰 [2024/12/10 - [DB/Oracle] Optimizer [5]](https://naturecancoding.tistory.com/147)
-- 📰 [2024/12/09 - [DB/Oracle] INDEX  [4]](https://naturecancoding.tistory.com/146)
 
 <!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
