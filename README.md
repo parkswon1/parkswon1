@@ -38,13 +38,6 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📝 최신 블로그 포스트
 
-- 📰 [2025/09/10 - [Server/ssh] SSH 접속 및 private, public key 이해하기](https://naturecancoding.tistory.com/166)
-- 📰 [2025/09/10 - [Server/Linux] ubuntu 기반 VM ssh key 등록](https://naturecancoding.tistory.com/165)
-- 📰 [2025/08/29 - [Monitoring/Loki] Grafana Cloud &amp; Loki &amp; Promtail 사용기 (돈이 없지만 모니터링, 로그수집은 하고싶어) 2](https://naturecancoding.tistory.com/164)
-- 📰 [2025/08/19 - [Monitoring/Loki] Grafana Cloud &amp; Loki &amp; Promtail 사용기 (돈이 없지만 모니터링, 로그수집은 하고싶어)](https://naturecancoding.tistory.com/163)
-- 📰 [2025/06/26 - [JAVA/기초] LineNumberReader + 1 문제](https://naturecancoding.tistory.com/162)
-- 📰 [2025/06/18 - [Spring/기초] 외부 Api를 호출해서 서버 날리기 (외부 Api 호출 위험성 낮추기)](https://naturecancoding.tistory.com/161)
-- 📰 [2025/06/12 - [Spring/기초] Pageable 자주 사용하지만 관심은 없었던 그 녀석](https://naturecancoding.tistory.com/160)
 
 <!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
