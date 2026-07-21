@@ -38,13 +38,13 @@
 <!-- START_CUSTOM_SECTION -->
 ### 📝 최신 블로그 포스트
 
+- 📰 [2026/07/20 - [Tools/Codex] Codex Windows 샌드박스 ACL 오류 해결 (Codex가 브라우저 사용을 못할때)](https://naturecancoding.tistory.com/172)
 - 📰 [2026/06/23 - [Architecture/R2] Cloudflare R2 사용 방법 &amp; 내가 선택한 이유와 public private (돈이 없지만 파일저장 S3는 사용하고 싶어)](https://naturecancoding.tistory.com/171)
 - 📰 [2026/06/15 - [DP/Server] HTTPS 프록시 환경 Spring Boot 요청 스킴 인식 오류 해결](https://naturecancoding.tistory.com/170)
 - 📰 [2026/06/14 - [Tool/Git] GitHub SSH 인증 발급 및 등록하기 (리파지토리마다 설정하기)](https://naturecancoding.tistory.com/169)
 - 📰 [2026/05/18 - [오늘의 시간표/문서] 오늘의 시간표 서비스 개인정보 처리방침 (v1.0.0)](https://naturecancoding.tistory.com/168)
 - 📰 [2025/12/02 - [Docker/저장공간] Docker 용량 이상 (WSL2, VHDX)](https://naturecancoding.tistory.com/167)
 - 📰 [2025/09/10 - [Server/ssh] SSH 접속 및 private, public key 이해하기](https://naturecancoding.tistory.com/166)
-- 📰 [2025/09/10 - [Server/Linux] ubuntu 기반 VM ssh key 등록](https://naturecancoding.tistory.com/165)
 
 <!-- END_CUSTOM_SECTION -->
 <!-- END_CUSTOM_SECTION -->
